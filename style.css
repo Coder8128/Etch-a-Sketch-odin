@@ -18,17 +18,14 @@ body {
 }
 
 .gridBlock {
-    height: 50px;
+    height: auto;
     width: 50px;
     background-color: rgb(209, 209, 209);
-    flex-shrink: 3;
-    min-width: 0;
 }
 
 .gridRow {
     display: flex;
-    flex-shrink: 3;
-    min-width: 0;
+    width: 900px;
 
 }
 
